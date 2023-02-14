@@ -1,0 +1,15 @@
+/Users/kseniachernaya/Desktop/C#/15-19-21/bin/Debug/net6.0/15-19-21
+/Users/kseniachernaya/Desktop/C#/15-19-21/bin/Debug/net6.0/15-19-21.deps.json
+/Users/kseniachernaya/Desktop/C#/15-19-21/bin/Debug/net6.0/15-19-21.runtimeconfig.json
+/Users/kseniachernaya/Desktop/C#/15-19-21/bin/Debug/net6.0/15-19-21.dll
+/Users/kseniachernaya/Desktop/C#/15-19-21/bin/Debug/net6.0/15-19-21.pdb
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.csproj.AssemblyReference.cache
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.AssemblyInfoInputs.cache
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.AssemblyInfo.cs
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.csproj.CoreCompileInputs.cache
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.dll
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/refint/15-19-21.dll
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.pdb
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/15-19-21.genruntimeconfig.cache
+/Users/kseniachernaya/Desktop/C#/15-19-21/obj/Debug/net6.0/ref/15-19-21.dll
